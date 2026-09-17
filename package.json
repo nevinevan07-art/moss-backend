@@ -1,0 +1,12 @@
+{
+  "name": "recallos-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RecallOS - Your knowledge. Retrieved instantly. Built with Moss.",
+  "scripts": {
+    "install": "npm.cmd --prefix backend install",
+    "dev": "npm.cmd --prefix backend run dev",
+    "build": "npm.cmd --prefix backend run build",
+    "start": "npm.cmd --prefix backend run start"
+  }
+}
